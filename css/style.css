@@ -1,0 +1,19 @@
+body{
+	background-image: url(../image/welcome.jpg);
+	background-size: cover;
+
+}
+.head1{
+	font-size: 30px;
+	color: white;
+	font-style: italic;
+	text-align: center;
+	border: dotted;
+	margin: inherit;
+}
+.paragraph1{
+	font-size: 20px;
+	color: rgba(225, 225, 202, 0.77);
+	font-style: unset;
+	text-align: center;
+}
